@@ -1,6 +1,14 @@
 ## docker-library
 
+
+
+
+
 kubernetes 相关 images 同步
+# 2018.8.20
+
+* 新增加pause3.1，coredns，以及etcd升级
+
 
 # 2018.1.2017
 
